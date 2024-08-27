@@ -1,2 +1,4 @@
 # Regex-based-EMR-clinical-note-personal-health-information-labeling-tool
-의무기록 내 free-text 데이터 가명처리 업무의 공수를 줄이기 위해 정규표현식을 기반으로 개인식별정보를 색출 및 표시해주는 프로그램
+### 정규표현식 기반 의무기록 내 개인정보 색출 및 표시 프로그램
+
+  * 프로그램 사용방법은 '사용법.txt'를 확인해주세요.
